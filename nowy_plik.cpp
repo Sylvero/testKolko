@@ -1,4 +1,4 @@
-#Testowy komentarz dodany na potrzeby pull requesta
-#Zobacz tutaj
-#Nowa funkcjonalnosc
+#Testowy komentarz dodany na potrzeby pull request
+#Nowy Feature
+#Zobacz jak
 
